@@ -10,6 +10,6 @@ Relative reflectance normalised to 0.55 microns
 Robust uncertainty of the reflectance in that bin - see paper for details.
 
 
-acam_binned.txt - WHT ACAM spectrum obtained on 25 October 2017.
+acam_binned.csv - WHT ACAM spectrum obtained on 25 October 2017.
 
-xshooter_opt_binned.txt - X-Shooter UVB+VIS+NIR arm spectrum obtained on 27 October 2017.
+xshooter_opt_binned.csv - X-Shooter UVB+VIS+NIR arm spectrum obtained on 27 October 2017.
