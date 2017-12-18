@@ -1,5 +1,5 @@
 # Oumuamua-spectroscopy
-Spectroscopic data for 1I/2017 U1 'Oumuamua as described in Fitzsimmons et al. (2017)
+Spectroscopic data for 1I/2017 U1 'Oumuamua as described in Fitzsimmons et al., Nature Astronomy, in press (2017)
 
 This repository contains ascii csv files of the binned reflectance spectra of 'Oumuamua. The files contain three columns of data separated by commas:
 
